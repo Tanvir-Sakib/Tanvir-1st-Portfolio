@@ -27,7 +27,7 @@ h2{
    
 }
 .top-banner{
-    background-image: url(top-banner.png);
+    background-image: url(image/top-banner.png);
     background-repeat: no-repeat;
 }
 section{
@@ -43,7 +43,7 @@ section{
     font-weight: 700;
 }
 .dream-area{
-    background-image: url(dream-bg.png);
+    background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 
@@ -53,7 +53,7 @@ section{
 }
 .exprence-area{
     
-    background-image: url(exp-bg.png);
+    background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
