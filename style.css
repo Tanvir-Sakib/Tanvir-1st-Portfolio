@@ -43,9 +43,11 @@ section{
     font-weight: 700;
 }
 .dream-area{
-    background-image: url(dream-bg.png);
+    background: url(dream-bg.png);
+    background-size: 1080px 750px;
     background-repeat: no-repeat;
     background-position: right;
+    margin: 20%;
 
 }
 #big{
