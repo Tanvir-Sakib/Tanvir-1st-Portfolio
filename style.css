@@ -21,17 +21,29 @@ h2{
 }
 
 .half-width img{
-   width: 70%;
+    width: 70%;
     margin-top: 50px;
     margin-left: 80px;
    
 }
-.top-banner{
+.half-width2{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width2 img{
+    width: 100%;
+    margin-top: 50px;
+    margin-left: 1px;
+}
+.top-banner{ 
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
 }
 section{
-    height: 500px;
+    height: 300px;
     padding-bottom: 100px;
 }
 .link-button{
@@ -44,10 +56,9 @@ section{
 }
 .dream-area{
     background: url(dream-bg.png);
-    background-size: 1080px 750px;
     background-repeat: no-repeat;
     background-position: right;
-    margin: 20%;
+    margin: 10%;
 
 }
 #big{
